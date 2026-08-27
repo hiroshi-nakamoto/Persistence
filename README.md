@@ -59,10 +59,6 @@ persistent-trading-agent/
 - [x] Public GitHub link provided
 - [x] Backtest performance included
 
-## Public GitHub Link
-
-https://github.com/Wallflwr12/persistent-trading-agent
-
 ## Disclaimer
 
 This repository is provided for educational and activity demonstration purposes only. It does not constitute investment advice, financial advice, trading advice, or a recommendation to buy or sell any crypto asset.
