@@ -1,4 +1,4 @@
-name: persistent
+Name: persistent
 description: Consolidation breakout trading agent with volume confirmation. Detects tight price compression, waits for volume-confirmed breakouts, and executes mechanical entries across BTCUSDT, ETHUSDT, SOLUSDT simultaneously on 1-hour timeframe.
 
 # Persistent: Consolidation Breakout Trading Skill
@@ -188,11 +188,7 @@ This Skill is provided for educational and demonstration purposes only. It does 
 - Win Rate: 75%
 - Monthly PnL: +4.2%
 
-## 12. Public GitHub Link
-
-https://github.com/Wallflwr12/persistent-trading-agent
-
-## 13. Disclaimer
+## 12. Disclaimer
 
 This Skill is provided for educational and demonstration purposes only. It does not represent a commitment that the strategy will be listed, supported, executed, or productized by CoinW. It does not constitute investment advice or a guarantee of returns.
 
